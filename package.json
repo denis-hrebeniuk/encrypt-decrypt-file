@@ -1,0 +1,15 @@
+{
+  "name": "encrypt-decrypt-file",
+  "version": "1.0.0",
+  "description": "File encryption and decryption",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Denis Hrebeniuk",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "crypto-js": "^4.1.1"
+  }
+}
