@@ -15,7 +15,7 @@ npm install
 
 ## Usage
 
-To encrypt file you just need to specify file, encryption password, output file. Use `node . --help` to get all commands.
+To encrypt file you just need to specify file, encryption password, output file. Use `node . --help` to get all options.
 
 > Encryption example
 ```

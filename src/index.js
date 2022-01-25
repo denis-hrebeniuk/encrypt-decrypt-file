@@ -11,7 +11,7 @@ program
 
 const options = program.opts(); // Get cli options
 
-if (Object.keys(options).length >= 3) {
+if (Object.keys(options).length >= 3) { // If objects in array are 3
   if (options.encrypt) {
     const pathFileToEncrypt = options.encryptFile;
     const encryptionSecretKey = options.encryptSecretKey;
